@@ -1,3 +1,9 @@
+NAME: HAZMI BIN HALID
+STUDENT ID: 1132702612
+TITLE: Visual Programming Final - Falling Rain
+
+
+
 ArrayList particles = new ArrayList();
 float box = 150, num;
  
